@@ -1,11 +1,11 @@
 <h1 align="center">Hi! 👋 I'm Dedyyy</h1>
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+AlyaaXzy+?+From+Indonesia.;I'am+Not+Programmer." alt="AlyaaXzy">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+Dedyyy+?+From+Indonesia.;I'am+Not+Programmer." alt="Dedyyy">
 </p>
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="https://telegra.ph/file/f96eee5c2c75bd32c1f58.png" alt="Velgrynd"></a>
+  <a href="https://ibb.co/QQX130c"><img src="https://i.postimg.cc/YCXkB0Zn/20220326-121112.png" alt="Velgrynd"></a>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 
-# AlyaaXzy
+# Dedyyy
 Simple Rpg WhatsApp Bot Dedyyy
 
 <a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
@@ -34,13 +34,12 @@ Simple Rpg WhatsApp Bot Dedyyy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
 
 ❖ Heroku Buildpack ❖
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+https://github.com/Dedytobing/api-mirip-lolhuman
 
 Tutorial YouTube
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](AlyaaXzy ?)
-## FOR TERMUX/UBUNTU/SSH USER AlyaaXzy
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](Dedy Tobing)
+## FOR TERMUX/UBUNTU/SSH USER Dedyyy
 
 ```bash
 apt update && apt upgrade
@@ -48,8 +47,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/AlyaaXd/rfkbotV2
-cd rfkbotV2
+git clone https://github.com/Dedytobing/3gpBot
+cd 3gpBot
 npm install
 npm update
 ```
@@ -63,8 +62,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AlyaaXd/rfkbotV2-bot
-cd rfkbotV2
+git clone https://github.com/Dedytobing/3gpBot
+cd 3gpBot
 npm install
 npm update
 ```
